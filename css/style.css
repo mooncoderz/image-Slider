@@ -52,3 +52,17 @@
 .slide-container .arrow.next{
     right: 10px;
 }
+.indicators{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.indicators .indicator{
+    width: 15px;
+    height: 15px;
+    background: gray;
+    margin-right: 8px;
+    cursor: pointer;
+    border-radius: 50%;
+}
